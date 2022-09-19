@@ -1,1 +1,1 @@
-starting pythone
+starting Python
